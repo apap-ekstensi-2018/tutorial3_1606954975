@@ -43,6 +43,5 @@ public class InMemoryStudentService implements StudentService {
 		}
 		return null;
 	}
-//	nomer 4 localhost:8080/student/view?npm=12345 tidak muncul karena data belum diinsert
 	
 }
